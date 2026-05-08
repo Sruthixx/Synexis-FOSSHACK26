@@ -3,7 +3,7 @@
 > **Beginner-friendly dataset quality checker — scan, clean, and trust your data.**
 
 ## 🚀 Live Demo
-👉 **[Click here to view the live website]https://veritasdata-demo-website.vercel.app/**
+👉 [Click here to view the live website](https://veritasdata-demo-website.vercel.app/)
 
 ---
 
